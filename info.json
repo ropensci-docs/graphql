@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b67c15649a123b681bd7722fff9b5c98499619c4",
+    "author": "ropenscibot <myrmecocystus+ropenscibot@gmail.com>",
+    "time": "2019-12-08 22:41:42",
+    "files": 1,
+    "merge": false,
+    "message": "Add links to official docs site.\nFor more details: https://ropensci.org/technotes/2019/06/07/ropensci-docs/\n"
+  },
+  "remote": "https://github.com/ropensci/graphql",
+  "pkg": "graphql"
+}
