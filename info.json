@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "61599566ff308228953101569ed420033b8240b0",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2022-09-25 21:52:51",
+    "files": 1,
+    "merge": false,
+    "message": "Fix URLS\n"
+  },
+  "repo": "https://github.com/ropensci/graphql",
+  "pkg": "graphql"
+}

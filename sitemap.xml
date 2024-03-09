@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/graphql/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/graphql/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/graphql/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/graphql/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/graphql/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/graphql/reference/graphql.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/graphql/reference/index.html</loc>
+  </url>
+</urlset>
