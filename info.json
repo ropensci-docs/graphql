@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "efd93fa2da695399b04999a861b98258d4bdabff",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2025-07-02T19:56:45Z",
+    "files": 1,
+    "merge": false,
+    "message": "Fix LTO build\n"
+  },
+  "repo": "https://github.com/ropensci/graphql",
+  "pkg": "graphql",
+  "time": "2026-08-31T10:14:50Z"
+}
